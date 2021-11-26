@@ -3,6 +3,10 @@ main {
     position: relative;
 }
 
+html{
+    background: #254152;
+}
+
 .circle {
     border-radius: 50%;
     width: 120px;
